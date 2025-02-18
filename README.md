@@ -59,6 +59,12 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 
 ---
 
+## 🎓 Technical Writing Certification Project
+🔹 **Final diploma project** for the **Technical Writing Certification at Hi-Tech Park IT Academy (Minsk)**, created for **Vivino** mobile app.  
+👉 [View Certification Project](https://drive.google.com/file/d/1nE3CP_szRBBnJwt4s7WzNFU1R6KejPV7/view?usp=sharing)
+
+---
+
 ### 🏆 Certifications
 - **Technical Writing Specialist** (Hi-Tech Park IT Academy, 2020)
 - **Writing in Plain English** (2022)  
