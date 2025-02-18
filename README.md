@@ -19,7 +19,7 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 📌 **Technical Writing & Documentation**  
 - Help Centers from scratch
 - User Guides & Knowledge Bases
-- API Documentation (**OpenAPI, Swagger**)  
+- API Documentation (OpenAPI, Swagger)  
 - UI/UX Writing
 - Copywriting (SEO-optimized articles) and editing
 
