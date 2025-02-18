@@ -38,6 +38,30 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 - Russian (Native)  
 
 ---
+# 📌 Dmitrey Vakhtin – Technical Writing Portfolio
+
+## 📖 Help Center Documentation
+🔹 **Filmustage Help Center** – A fully developed knowledge base for the **Filmustage web application** *(all articles under CEO Egor Dubrovsky's authorship were written by me from scratch).*  
+👉 [View Help Center](https://help.filmustage.com/)
+
+---
+
+## ✍️ SEO Blog Articles
+🔹 **Official Filmustage Blog** – Authored **~100 SEO-optimized articles** covering filmmaking, post-production, and industry trends.  
+👉 [Read Blog Articles](https://filmustage.com/blog/author/dmitry/)
+
+---
+
+## 🔗 API Documentation
+🔹 **Wayvee Analytics API** – Public API documentation for **Wayvee Analytics** *(structured endpoint descriptions, request/response examples, and best practices).*  
+👉 [View API Documentation](https://docs.wayvee.com/docs/api/wayvee-public-api)
+
+---
+
+## 📌 Additional Information
+🖥 **Skills:** API Documentation (Swagger, OpenAPI), Help Centers (Zendesk, Intercom), UI/UX Writing, Markdown, Git, SEO Copywriting.  
+📍 **Location:** Batumi, Georgia  
+📧 **Contact:** dmitrey.vakhtin@gmail.com
 
 ### 🏆 Certifications
 - **Technical Writing Specialist** (Hi-Tech Park IT Academy, 2020)
