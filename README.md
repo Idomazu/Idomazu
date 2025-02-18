@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dmitrey Vakhtin
 
-🚀 **Senior Technical Writer | Content Manager | UI/UX Writer**  
+🚀 **Senior Technical Writer | UI/UX Writer | Content Manager | Copywriter | Editor**  
 📍 Based in Batumi, Georgia  (originally from Minsk, Belarus)
 
 📧 dmitrey.vakhtin@gmail.com  
@@ -20,13 +20,14 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 - Help Centers from scratch
 - User Guides & Knowledge Bases
 - API Documentation (**OpenAPI, Swagger**)  
-- UI/UX Writing  
-- Markdown, PlantUML, Mermaid  
+- UI/UX Writing
+- Copywriting (SEO-optimized articles) and editing
 
 📌 **Content Management**  
 - Docs-as-Code Approach  
 - Confluence, Jira, Zendesk, Intercom  
-- Git, Google Apps  
+- Git, Google Apps
+- - Markdown, PlantUML, Mermaid
 
 📌 **Development & Tech**  
 - JSON, XML, YAML, HTML  
