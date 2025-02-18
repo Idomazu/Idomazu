@@ -27,7 +27,7 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 - Docs-as-Code Approach  
 - Confluence, Jira, Zendesk, Intercom  
 - Git, Google Apps
-- - Markdown, PlantUML, Mermaid
+- Markdown, PlantUML, Mermaid
 
 📌 **Development & Tech**  
 - JSON, XML, YAML, HTML  
