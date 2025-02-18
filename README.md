@@ -58,11 +58,6 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 
 ---
 
-## 📌 Additional Information
-🖥 **Skills:** API Documentation (Swagger, OpenAPI), Help Centers (Zendesk, Intercom), UI/UX Writing, Markdown, Git, SEO Copywriting.  
-📍 **Location:** Batumi, Georgia  
-📧 **Contact:** dmitrey.vakhtin@gmail.com
-
 ### 🏆 Certifications
 - **Technical Writing Specialist** (Hi-Tech Park IT Academy, 2020)
 - **Writing in Plain English** (2022)  
@@ -72,7 +67,7 @@ I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop h
 ---
 
 ### 🎮 Fun Fact
-I have shared the stage with Linkin Park!
+I have shared a concert stage with Linkin Park and Chester Bennington!
 
 ---
 
