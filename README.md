@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dmitrey Vakhtin
 
 🚀 **Senior Technical Writer | Content Manager | UI/UX Writer**  
-📍 Based in Batumi, Georgia  
+📍 Based in Batumi, Georgia  (originally from Minsk, Belarus)
 📧 dmitrey.vakhtin@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/dmitrey-vakhtin)  
 
