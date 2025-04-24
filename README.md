@@ -9,7 +9,7 @@
 ---
 
 ### 📝 About Me
-I am a **Senior Technical Writer** with **5+ years of experience in IT** and a strong background in **API documentation, UI/UX writing, copywriting, and content management**. My expertise includes writing user-friendly documentation, structuring knowledge bases, and simplifying complex technical concepts.
+I am a **Senior Technical Writer** with **5+ years of experience in IT** and a strong background in ** Technical Writing, API Documentation, UI/UX Writing, Copywriting, and Content Management**. My expertise includes writing user-friendly documentation, structuring knowledge bases, and simplifying complex technical concepts.
 
 I have worked with **Wayvee, Filmustage, SoftSwiss, and Evolution** to develop high-quality documentation, marketing materials, and internal knowledge systems.
 
