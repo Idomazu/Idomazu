@@ -74,7 +74,7 @@ I have worked with **Wayvee, Filmustage, and Evolution** to develop high-quality
 ---
 
 ### 🎮 Fun Fact
-I have shared a concert stage with Linkin Park and Chester Bennington!
+I have shared a concert stage with **Linkin Park** and **Chester Bennington**!
 
 ---
 
