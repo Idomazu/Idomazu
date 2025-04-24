@@ -67,7 +67,7 @@ I have worked with **Wayvee, Filmustage, and Evolution** to develop high-quality
 
 ### 🏆 Certifications
 - **Technical Writing Specialist** (Hi-Tech Park IT Academy, 2020)
-- **Writing in Plain English** (2022)  
+- **Writing in Plain English** (Judy Steiner-Williams, 2022)  
 - **Learn API Technical Writing: JSON and XML** (Udemy, 2022)  
 - **Introduction to UX Writing** (Udemy, 2023)  
 
